@@ -15,7 +15,7 @@
       }
     ]
   },
-  "work": [
+  "Research Experience": [
     {
       "name": "Industrial Automation and Intelligent Information Processing Lab., Univeristy of Tehran",
       "position": "Research Assistant (Remote)",
@@ -25,7 +25,7 @@
       "highlights": ["Medical Image Registration", "Systematic Literature Review"]
     }
   ],
-  "volunteer": [
+  "Teaching Experience": [
     {
       "organization": "People's Climate March",
       "location": "Zurich, Switzerland",
@@ -143,12 +143,22 @@
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
+      "language": "English",
+      "fluency": "Fluent",
       "icon": ""
     },
     {
-      "language": "English",
+      "language": "Farsi",
+      "fluency": "Native",
+      "icon": ""
+    },
+    {
+      "language": "Azerbaijani",
+      "fluency": "Native",
+      "icon": ""
+    },
+    {
+      "language": "Turkish",
       "fluency": "Fluent",
       "icon": ""
     }
