@@ -4,7 +4,6 @@
     "label": "B.E. in Computer Engineering",
     "image": "",
     "email": "arian.firoozi@ut.ac.ir",
-    "phone": "(912) 123-4567",
     "url": "https://ArianFiroozi.github.io/",
     "summary": "A computer engineering student currently studying at University of Tehran",
     "profiles": [
@@ -71,10 +70,10 @@
       "startDate": "2021-09-01",
       "endDate": "",
       "score": "16.92/20",
-      "courses": [""]
+      "courses": []
     }
   ],
-  "awards": [
+  "test": [
     {
       "title": "Nobel Prize in Physics",
       "date": "1921-11-01",
