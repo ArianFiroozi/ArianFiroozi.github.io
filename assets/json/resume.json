@@ -15,7 +15,7 @@
       }
     ]
   },
-  "Research Experience": [
+  "work": [
     {
       "name": "Industrial Automation and Intelligent Information Processing Lab., Univeristy of Tehran",
       "position": "Research Assistant (Remote)",
@@ -23,6 +23,30 @@
       "endDate": "",
       "summary": "I was a part of a systematic literature review of deep learning application in medical brain image registration, we analyzed 100+ papers. The paper is almost ready but results are not submitted yet. \nUnder supervision of Professor Behzad Moshiri, Assistant Professor Mohammadreza Abolghasemi Dehaqani and Dr. Hamid Azadegan",
       "highlights": ["Medical Image Registration", "Systematic Literature Review"]
+    },
+    {
+      "name": "High Performance Computing Lab., Univeristy of Tehran",
+      "position": "Research Assistant (Remote)",
+      "startDate": "2025-07-01",
+      "endDate": "2025-09-01",
+      "summary": "Designed and implemented SNN networks, GUI and Python‑Verilog integration of an end‑to‑end GUI‑driven, hardware‑aware ANN to SNN. The resulting framework has Brian2 simulation and SystemVerilog export and supports LIF, Izhikevich and Hodgkin‑Huxley neurons. Results are ready but not submitted yet. \nUnder supervision of Associate Professor Saeed Safari",
+      "highlights": ["SNN", "PySide6", "Bio-Plausible Neurons", "PyTorch"]
+    },
+    {
+      "name": "UTCar Project (Autonomous Driving Platform), Univeristy of Tehran",
+      "position": "Research Assistant (On-Site)",
+      "startDate": "2024-10-01",
+      "endDate": "2025-07-01",
+      "summary": "Implemented deep reinforcement learning networks (e.g. DQN) for autonomous driving on HighwayEnv and Carla. Deployed and integrated HighwayEnv and Carla simulators with laboratory environment. Designed maps in SUMO simulator and converted results for Carla simulator. Gathered dataset and trained CNN networks for distance and trajectory estimation of a physical toy car. \nUnder supervision of Associated Professor Mehdi Modarressi",
+      "highlights": ["Deep RL", "Carla", "Autonomous Driving"]
+    },
+    {
+      "name": "Embedded Systems Lab., Univeristy of Tehran",
+      "position": "Research Intern (On-Site)",
+      "startDate": "2024-07-01",
+      "endDate": "2025-09-20",
+      "summary": "Developed an application to convert PyTorch models to hardware compatible graphs with visual outputs. Designed a new GUI for existing project. \nUnder supervision of Associated Professor Mostafa Ersali",
+      "highlights": ["Neural Networks", "PyTorch", "PySide6"]
     }
   ],
   "Teaching Experience": [
