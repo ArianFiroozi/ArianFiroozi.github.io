@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: B.E. in Computer Engineering at University of Tehran
+subtitle: B.E. in Computer Engineering at the University of Tehran
 
 profile:
   align: right
@@ -24,6 +24,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently studying Computer Engineering at University of Tehran. My research interests are Deep Learning, NeuroScience and Trustworthy AI. I have previously worked as a research assistant in three university laboratories that I have listed in my CV.
+I am currently studying Computer Engineering at the University of Tehran. My research interests are Deep Learning, NeuroScience and Trustworthy AI. I have previously worked as a research assistant in three university laboratories that I have listed in my CV.
 
 You can contact me via the email address typed at the bottom of the page.
