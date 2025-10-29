@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
+  more_info: Somewhere in Tochal mountain>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -24,4 +24,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Website still being developed ...
+I am currently studying Computer Engineering at University of Tehran. My research interests are Deep Learning, NeuroScience and Trustworthy AI. I have previously worked as a research assistant in three university laboratories that I have listed in my CV.
+
+You can contact me via the email address typed in the bottom of the page.
