@@ -151,23 +151,51 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "AI/ML",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Transformers",
+        "Large Language Models",
+        "Knowledge Distillation",
+        "Image Registration",
+        "Deep Learning",
+        "Autonomous Driving",
+        "Spiking Neural Networks",
+        "Kolmogorov-Arnold Networks"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "PyTorch",
+        "LangGraph",
+        "LangChain",
+        "Spring",
+        "Maven",
+        "Qt",
+        "PySide"
+      ]
+    },
+    {
+      "name": "Programming Languages",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "C/C++",
+        "Python",
+        "Java",
+        "JavaScript",
+        "Verilog"
       ]
     }
   ],
   "languages": [
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Fluent (IELTS Overall 8.0)",
       "icon": ""
     },
     {
@@ -188,34 +216,46 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Medical Imaging",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Brain Image Registration"
+      ]
+    },
+    {
+      "name": "Large Language Models",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Interpretable Language Models",
+        "Explainable Language Models",
+        "Vision Language Models"
+      ]
+    },
+    {
+      "name": "Autonomous Driving",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Decision Making",
+        "Prediction",
+        "Perception",
+        "Reliable AI"
+      ]
+    },
+    {
+      "name": "NeuroScience",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Human Conciousness",
+        "Biologically Plausible Networks"
       ]
     }
   ],
   "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+      "name": "Incoming",
+      "summary": "",
       "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
       "startDate": "2018-01-01",
       "endDate": "2018-01-01",
