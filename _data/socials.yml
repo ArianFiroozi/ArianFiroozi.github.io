@@ -51,6 +51,6 @@ telegram_username: arian_fir # your Telegram user name
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 custom_social: # can be any name here other than the ones already defined above
-  logo: https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg # can be png, svg, jpg
+  logo: https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-pirate.svg # can be png, svg, jpg
   title: HuggingFace
   url: https://huggingface.co/ArianFiroozi
